@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Maykon Mendel!</strong>
+## 💻 Olá, meu nome é <strong>Maykon Mendel!</strong>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://alegre.ifes.edu.br">IFES - Campus de Alegre</a>.
