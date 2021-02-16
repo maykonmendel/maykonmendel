@@ -5,6 +5,10 @@
 - 💼 &nbsp; Trabalhando como Professor de Informática no <a href="https://novavenecia.ifes.edu.br">IFES - Campus Nova Venécia</a>
 - 🌱 &nbsp; Aprendendo mais sobre Node.js, Express, React, Angular e .NET Core 5.
 
+### Minhas Skils
+
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 <br/>
 
 <a href="https://github.com/VanessaSwerts">
