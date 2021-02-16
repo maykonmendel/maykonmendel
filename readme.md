@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://alegre.ifes.edu.br">IFES - Campus de Alegre</a>.
 - 💼 &nbsp; Trabalhando como Professor de Informática no <a href="https://novavenecia.ifes.edu.br">IFES - Campus Nova Venécia</a>
-- 🌱 &nbsp; Aprendendo mais sobre Node.js, Express, React, Angular e .NET Core 5.
+- 🌱 &nbsp; Aprendendo mais sobre Node.js, React e .NET Core 5.
 
 <br/>
 
