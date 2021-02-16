@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## 💜 Olá, meu nome é <strong>Maykon Mendel!</strong>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -5,15 +7,15 @@
 - 💼 &nbsp; Trabalhando como Professor de Informática no <a href="https://novavenecia.ifes.edu.br">IFES - Campus Nova Venécia</a>
 - 🌱 &nbsp; Aprendendo mais sobre Node.js, Express, React, Angular e .NET Core 5.
 
-### Minhas Skils
-
-![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
 <br/>
 
 <a href="https://github.com/VanessaSwerts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&theme=dracula&show_icons=true" />
 </a>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 <br/>
 
