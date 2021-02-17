@@ -1,15 +1,25 @@
 ## 💻 Olá, meu nome é <strong>Maykon Mendel!</strong>
 
+Seja bem vindo ao meu perfil, aqui eu posto os meus projetos e soluções que estou desenvolvendo. **Desenvolvedor Full-Stack** e Professor de Informática 🚀. 
+
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 &nbsp; Aberto ao mercado e novas oportunidades.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://alegre.ifes.edu.br">IFES - Campus de Alegre</a>.
-- 💼 &nbsp; Trabalhando como Professor de Informática no <a href="https://novavenecia.ifes.edu.br">IFES - Campus Nova Venécia</a>
-- 🌱 &nbsp; Aprendendo mais sobre Node.js, React e .NET Core 5.
+- 💼 &nbsp; Trabalhando como Professor de Informática no <a href="https://novavenecia.ifes.edu.br">IFES - Campus Nova Venécia</a>.
+- 🌱 &nbsp; Skills: .net core, c#, asp.net core, javascript, reactjs, redux, node.js, express, mongo, mysql, sql server, html, css, bootstrap, tailwind, arquitetura de software, engenharia de software, análise e projeto de sistemas.
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+## Estáticas do meu Github
+
+<a href="https://github.com/maykonmendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&theme=dracula&show_icons=true" />
 </a>
+
+## Linguagens que mais utilizo nos meus projetos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
 <br/>
 
