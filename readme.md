@@ -21,6 +21,8 @@ Seja bem vindo ao meu perfil, aqui eu posto os meus projetos e soluções que es
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maykonmendel)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
