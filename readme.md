@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykonmendel/52cbbf0ac14549d3bbd8742feb73974c/raw/2b12dbc37449d83d9c28920197a774115cd4a67f/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykonmendel/52cbbf0ac14549d3bbd8742feb73974c/raw/840431f5330a854a1b918e314321cc4aef3429f5/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Maykon Mendel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmendel&color=yellow" alt="Profile views" /> </p>
 
