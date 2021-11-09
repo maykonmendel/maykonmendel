@@ -1,31 +1,65 @@
-## 💻 Olá, meu nome é <strong>Maykon Mendel!</strong>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykonmendel/52cbbf0ac14549d3bbd8742feb73974c/raw/2b12dbc37449d83d9c28920197a774115cd4a67f/githubcard.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,Eu sou Maykon Mendel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmendel&color=yellow" alt="Profile views" /> </p>
 
-Seja bem vindo ao meu perfil, aqui eu posto os meus projetos e soluções que estou desenvolvendo. **Desenvolvedor Full-Stack** e **Criador de Conteúdo** 🚀. 
+- 🔥 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
 
-```js
-import Desenvolvedor from 'Maykon Mendel';
+- 🔭 Atualmente professor no [IFES](https://novavenecia.ifes.edu.br)
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Maykon Mendel';
-  area    = 'Desenvolvedor Full-Stack';
-  trabalho  = 'IFES';
-  local = 'Nova Venécia';
-}
+- 👨‍💻 Meus projetos estão disponíveis em [maykonmendel.github.io](https://maykonmendel.github.io)
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['HTML, CSS, ASP.NET Core, C#, JS, TS, Node.js e Elixir (em andamento)'];  
-  frameworks = ['React.js, Express, Bootstrap, Tailwind, Dapper, EF Core'];
-  bancoDeDados = ['MySQL, SQL Server e MongoDB'];
-}
-```
+- ▶️ Criador de conteúdo [youtube.com/maykonmendel](https://youtube.com/maykonmendel)
+
+- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, HTML, CSS, JavaScript, SQL, Node.JS e React.JS**
+
+- ⚡ Entusiasta por novas **tecnologias**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&show_icons=true&theme=vision-friendly-dark" alt="maykonmendel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact&theme=vision-friendly-dark" alt="maykonmendel's most languages"/>
 </p>
 
-[![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://maykonmendel.github.io/)](https://maykonmendel.github.io/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maykonmendel)](https://github.com/maykonmendel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykon-mendel/)](https://www.linkedin.com/in/maykon-mendel/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maykonmendel.dev/)](https://www.instagram.com/maykonmendel.dev/)
-[![Youtube Badge](https://img.shields.io/badge/-Maykon&nbsp;Mendel-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxE5Lq1Z_fQl7qo_Q9nUEZQ)](https://www.youtube.com/channel/UCxE5Lq1Z_fQl7qo_Q9nUEZQ)
-[![Gmail Badge](https://img.shields.io/badge/-maykonmendel.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maykonmendel.dev@gmail.com)](mailto:maykonmendel.dev@gmail.com)
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykonmendel" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/maykonmendel" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykonmendel" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/maykonmendel" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
