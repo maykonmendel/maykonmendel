@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykonmendel/52cbbf0ac14549d3bbd8742feb73974c/raw/949b9913cf49f4fd0a0a17ef9253ad27b8299efa/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Maykon Mendel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmendel&color=yellow" alt="Profile views" /> </p>
 
