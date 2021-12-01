@@ -1,4 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Maykon Mendel</h1>
+<a href="https://app.daily.dev/maykonmendel"><img src="https://api.daily.dev/devcards/94dad5038e3a4095bd20d2b247e59467.png?r=f90" width="400" alt="Maykon Mendel's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmendel&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
