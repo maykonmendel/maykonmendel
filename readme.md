@@ -1,16 +1,13 @@
-<a href="https://app.daily.dev/maykonmendel"><img align="right" height="590em" src="https://api.daily.dev/devcards/94dad5038e3a4095bd20d2b247e59467.png?r=f90" width="400" alt="Maykon Mendel's Dev Card"/></a>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Maykon Mendel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmendel&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
 
-- 🔭 Atualmente professor no [IFES](https://novavenecia.ifes.edu.br)
-
 - 👨‍💻 Meus projetos estão disponíveis em [maykonmendel.github.io](https://maykonmendel.github.io)
 
-- ▶️ Criador de conteúdo [youtube.com/maykonmendel](https://youtube.com/maykonmendel)
+- ▶️ Criador de conteúdo
 
-- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, HTML, CSS, JavaScript, SQL, Node.JS e React.JS**
+- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, HTML, CSS, JavaScript, TypeScript, SQL, Node.JS e React.JS**
 
 - ⚡ Entusiasta por novas **tecnologias**
 
@@ -53,13 +50,13 @@
 <a href="https://codepen.io/maykonmendel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/maykonmendel" target="_blank">
+<a href="https://linkedin.com/in/maykon-mendel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykonmendel" target="_blank">
+<a href="https://instagram.com/reeve.tech" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykonmendel" target="_blank">
+<a href="https://www.youtube.com/channel/UCxE5Lq1Z_fQl7qo_Q9nUEZQ" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
