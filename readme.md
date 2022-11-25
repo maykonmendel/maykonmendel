@@ -7,7 +7,7 @@
 
 - ▶️ Criador de conteúdo
 
-- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, HTML, CSS, JavaScript, TypeScript, SQL, Node.JS e React.JS**
+- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, Blazor, HTML, CSS, JavaScript, TypeScript, SQL, Node.JS e React.JS**
 
 - ⚡ Entusiasta por novas **tecnologias**
 
@@ -53,10 +53,10 @@
 <a href="https://linkedin.com/in/maykon-mendel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/reeve.tech" target="_blank">
+<a href="https://instagram.com/maykonmendeldev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/channel/UCxE5Lq1Z_fQl7qo_Q9nUEZQ" target="_blank">
+<a href="https://www.youtube.com/@maykonmendeldev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykonmendel-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
