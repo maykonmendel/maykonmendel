@@ -1,4 +1,4 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo Maykon Mendel">
+<img src="logo.svg" width="300px" min-width="200px" max-width="200px" align="right" alt="Logo Maykon Mendel">
 
 <h2>Olá, dev's! 🖖🏻</h2>
 
