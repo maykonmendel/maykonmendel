@@ -2,8 +2,6 @@
 
 <h2>Olá, dev's! 🖖🏻</h2>
 
-<p>"A arte de programar consiste em organizar e dominar a complexidade." - Edsger W. Dijkstra</p>
-
 <p>Maykon Mendel, é Desenvolvedor Full-Stack e UI/UX Designer. Produz conteúdo desde 2021 sobre desenvolvimento full-stack.</p>
 
 - 💻 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
