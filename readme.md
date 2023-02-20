@@ -1,6 +1,6 @@
 <h2>Olá, dev's! 🖖🏻</h2>
 
-<p>Maykon Mendel, é Desenvolvedor Full-Stack e UI/UX Designer. Produz conteúdo desde 2021 sobre desenvolvimento full-stack.</p>
+<p>Maykon Mendel, é Desenvolvedor Full-Stack e se aventura como UI Designer quando necessário. Produz conteúdo desde 2021 sobre desenvolvimento full-stack.</p>
 
 - 💻 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
 - ▶️ Criador de conteúdo
