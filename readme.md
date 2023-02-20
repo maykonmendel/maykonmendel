@@ -1,5 +1,3 @@
-<img src="logo.svg" width="300px" min-width="200px" max-width="200px" align="right" alt="Logo Maykon Mendel">
-
 <h2>Olá, dev's! 🖖🏻</h2>
 
 <p>Maykon Mendel, é Desenvolvedor Full-Stack e UI/UX Designer. Produz conteúdo desde 2021 sobre desenvolvimento full-stack.</p>
