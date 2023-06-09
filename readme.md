@@ -1,41 +1,24 @@
-<h2>Olá, dev's! 🖖🏻</h2>
+### 👋 Hello everyone!
 
-<p>Maykon Mendel, é Desenvolvedor Full-Stack e se aventura como UI Designer quando necessário. Produz conteúdo desde 2023 sobre desenvolvimento full-stack.</p>
+About me:
 
-- 💻 Desenvolvedor Full-Stack & Instrutor com foco em ajudar quem deseja aprender a programar
-- ▶️ Criador de conteúdo
-- 💬 Pergunte-me sobre **.NET, C#, ASP.NET Core, Blazor, HTML, CSS, JavaScript, TypeScript, SQL, Node.JS e Vue.js**
-- ⚡ Entusiasta por novas **tecnologias**
+- I’m working as **Full-Stack Software Developer** and **Systems Analyst**.
+- I’m **Content Creator**.
+- I'm Speaker and Organizer of [Canal Maykon Mendel](https://www.youtube.com/@maykonmendeldev).
+- I've a discord community to answer questions, share knowledge and exclusive technical content. Participate [here](https://discord.gg/z4fpuH7v).
 
-<br>
+#### Follow me:
+[![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://maykonmendel.github.io/)]([https://andresecco.com.br](https://maykonmendel.github.io)/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maykonmendel)](https://github.com/maykonmendeldev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykon-mendel/)](https://www.linkedin.com/in/maykon-mendel/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maykonmendeldev/)](https://www.instagram.com/maykonmendeldev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/maykonmendeldev)](https://twitter.com/maykonmendeldev)
+[![Youtube Badge](https://img.shields.io/badge/-Maykon&nbsp;Mendel-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/@maykonmendeldev)](https://www.youtube.com/@maykonmendeldev)
+[![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=https://discord.gg/z4fpuH7v)](https://discord.gg/z4fpuH7v)
 
-<div align="right">
-  <a href="https://github.com/maykonmendel">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&show_icons=true"/>
-  <img width="450em"  margin-left="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact"/>
-</div>
-
-<br>
-
-<h3>Siga-me nas redes sociais e acompanhe meu conteúdo:</h3> 
-<div align="left">
-  <a href="https://www.instagram.com/maykonmendel.dev/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-4C1D95?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/maykon-mendel" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-4C1D95?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://discord.gg/Xnppwfx98c" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-4C1D95?style=for-the-badge&logo=Discord&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://twitch.tv/maykonmendeldev" alt="Twitch">
-    <img src="https://img.shields.io/badge/-Twitch-4C1D95?style=for-the-badge&logo=Twitch&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://youtube.com.br/@maykonmendeldev" alt="Youtube">
-    <img src="https://img.shields.io/badge/-Youtube-4C1D95?style=for-the-badge&logo=Youtube&logoColor=FFF"/>
-  </a>
-  </div>
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&show_icons=true&count_private=true&theme=github_dark" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact&theme=github_dark" />
+</p>
