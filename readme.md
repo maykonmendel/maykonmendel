@@ -14,6 +14,7 @@ About me:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maykonmendeldev/)](https://www.instagram.com/maykonmendeldev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/maykonmendeldev)](https://twitter.com/maykonmendeldev)
 [![Youtube Badge](https://img.shields.io/badge/-Maykon&nbsp;Mendel-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/@maykonmendeldev)](https://www.youtube.com/@maykonmendeldev)
+[![Twitch](https://img.shields.io/badge/Maykon&nbsp;Mendel-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/maykonmendeldev)](https://www.twitch.tv/maykonmendeldev)
 [![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=https://discord.gg/z4fpuH7v)](https://discord.gg/z4fpuH7v)
 
 <p align="justify">
