@@ -19,4 +19,5 @@ About me:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maykonmendel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/maykonmendel)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=csharp,html,css,js,ts,postgresql,mysql&theme=darkmode&includeNames=true)](https://github.com/maykonmendel)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,dotnetcore,dotnet&theme=darkmode&includeNames=true)](https://github.com/maykonmendel)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,dotnetcore&theme=darkmode&includeNames=true)](https://github.com/maykonmendel)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,vercel,nodejs,heroku,apache,nginx,aws)](https://github.com/maykonmendel)
