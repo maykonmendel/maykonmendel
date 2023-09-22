@@ -17,9 +17,4 @@ About me:
 [![Twitch](https://img.shields.io/badge/Maykon&nbsp;Mendel-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/maykonmendeldev)](https://www.twitch.tv/maykonmendeldev)
 [![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=https://discord.gg/z4fpuH7v)](https://discord.gg/z4fpuH7v)
 
-<p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maykonmendel&show_icons=true&count_private=true&theme=github_dark" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmendel&layout=compact&theme=github_dark" />
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maykonmendel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
