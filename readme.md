@@ -18,6 +18,4 @@ About me:
 [![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=https://discord.gg/z4fpuH7v)](https://discord.gg/z4fpuH7v)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maykonmendel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/maykonmendel)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=csharp,html,css,js,ts,postgresql,mysql&theme=darkmode)](https://github.com/maykonmendel)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,dotnetcore&theme=darkmode)](https://github.com/maykonmendel)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,vercel,nodejs,heroku,apache,nginx,aws&theme=darkmode)](https://github.com/maykonmendel)
+
